@@ -1,131 +1,54 @@
 [
     {
-        "titulo": "ñjohfrwkg",
-        "pista": "pista 1",
+        "titulo": "En busca de la figura",
+        "pista": "En algo que le tienes cariño, busca la nota voladora",
+        "imagen": "https://imgs.search.brave.com/rscdG9xq48KSDwnrVr2fFYtzNr2RPBia9_8xRWTxRc8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9kL2QxL1Rl/bGVmb25vZGVmaWNo/YXMuanBnLzk2MHB4/LVRlbGVmb25vZGVm/aWNoYXMuanBn",
+        "respuesta": "e.t."
+    },
+    {
+        "titulo": "¿Frio? ¿Donde?",
+        "pista": "En el cuarto mas frio de la casa, busca la puerta helada",
+        "imagen": "https://imgs.search.brave.com/-j-3ajdL8kyVzdv2DWQgBuTziUmy0VgNdyg0OBFsV3Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YXNvYy1hbHVtaW5p/by5lcy9zaXRlcy9k/ZWZhdWx0L2ZpbGVz/LzIwMjItMDcvaGlz/dG9yaWEtYWx1bWlu/aW9fMC5qcGc",
+        "respuesta": "..."
+    },
+    {
+        "titulo": "El alcohol, el alma de la fiesta",
+        "pista": "Busca la botella de vino que no se ha abierto, dime que has encontrado con ella",
+        "imagen": "https://imgs.search.brave.com/UgZ86WrRwyoED1bU49CX6KKD4WCofaxducjh_83mTxE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi90JUMz/JUJBbmVsLWRlLWxh/LXZpZC1kZS11dmEt/OTM2MjE1MzAuanBn",
+        "respuesta": "mario kart 8 deluxe"
+    },
+    {
+        "titulo": "Patrones incomprensibles",
+        "pista": "¡Ya tienes el juego! Escribe el nombre del personaje de la foto",
         "imagen": "./src/img1.jpg",
-        "respuesta": "si"
+        "respuesta": "Toadette"
     },
     {
-        "titulo": "ñjohfrwkg",
-        "pista": "pista 2",
-        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
-        "respuesta": "no"
-    },
-    {
-        "titulo": "ñjohfrwkg",
-        "pista": "pista 3",
-        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
-        "respuesta": "si"
-    },
-    {
-        "titulo": "ñjohfrwkg",
-        "pista": "pista 4",
-        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
-        "respuesta": "si"
-    },
-    {
-        "titulo": "ñjohfrwkg",
-        "pista": "pista 5",
-        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
-        "respuesta": "no",
+        "titulo": "Circuito escondido",
+        "pista": "Dime el nombre del circuito 3 de la copa ...",
+        "imagen": "./src/img2.jpg",
+        "respuesta": "...",
         "felicidades": "¡Felicidades! Has completado la jincana"
     },
     {
-        "titulo": "ñjohfrwkg",
-        "pista": "pista 6",
-        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
-        "respuesta": "no",
+        "titulo": "Ya por favor",
+        "pista": "En tu desorden mas ordenado",
+        "imagen": "https://imgs.search.brave.com/1JmFdkjvRPTeWqG6-n5qcNp_tFb-jdmcqVk18uvb2W4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvOTI4/Mjg3Njg0L3Bob3Rv/L2NoYW9zLWFuZC1t/ZXNzLWluLXJvb20t/YWZ0ZXItcGFydHkt/Y2xvdGgtYW5kLWZv/b2Qtb24tZmxvb3It/YmFjaGVsb3ItYXBh/cnRtZW50LmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1DZDd4/RmlTeGUtV0tQczFY/ZFM4eVdvSDdWNVBV/NTBod0JxTGlvV0Zs/RTc0PQ",
+        "respuesta": "empanadas",
         "felicidades": "¡Felicidades! Has completado la jincana"
     },
     {
-        "titulo": "ñjohfrwkg",
-        "pista": "pista 7",
-        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
-        "respuesta": "no",
+        "titulo": "¡Dame el regalo, pesado!",
+        "pista": "Puede que te haga falta una silla",
+        "imagen": "https://imgs.search.brave.com/RAtH3EK4FVCTDsEiezvl6PIrmanpI02mcef95UbvaDw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMjE2/NDM1MTMzNy9lcy9m/b3RvL2VsLWNhbWlu/by1oYWNpYS1lbC0l/QzMlQTl4aXRvLWVz/Y2FsZXJhLXJvamEt/eS11bmEtbWFuby1x/dWUtc2UtZXh0aWVu/ZGUtaGFjaWEtZWwt/Y2llbG8tc29icmUt/dW4ud2VicD9hPTEm/Yj0xJnM9NjEyeDYx/MiZ3PTAmaz0yMCZj/PUJQcloxd3dhblVo/QW54NnJsTVlDRmM5/S0t1Tmk0NEc0cmdO/ZXhfQUZuZzQ9",
+        "respuesta": "regalo",
         "felicidades": "¡Felicidades! Has completado la jincana"
     },
     {
-        "titulo": "ñjohfrwkg",
-        "pista": "pista 8",
-        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
-        "respuesta": "no",
-        "felicidades": "¡Felicidades! Has completado la jincana"
-    },
-    {
-        "titulo": "ñjohfrwkg",
-        "pista": "pista 5",
-        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
-        "respuesta": "no",
-        "felicidades": "¡Felicidades! Has completado la jincana"
-    },
-    {
-        "titulo": "ñjohfrwkg",
-        "pista": "pista 9",
-        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
-        "respuesta": "no",
-        "felicidades": "¡Felicidades! Has completado la jincana"
-    },
-    {
-        "titulo": "ñjohfrwkg",
-        "pista": "pista 10",
-        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
-        "respuesta": "no",
-        "felicidades": "¡Felicidades! Has completado la jincana"
-    },
-    {
-        "titulo": "ñjohfrwkg",
-        "pista": "pista 11",
-        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
-        "respuesta": "no",
-        "felicidades": "¡Felicidades! Has completado la jincana"
-    },
-    {
-        "titulo": "ñjohfrwkg",
-        "pista": "pista 5",
-        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
-        "respuesta": "no",
-        "felicidades": "¡Felicidades! Has completado la jincana"
-    },
-    {
-        "titulo": "ñjohfrwkg",
-        "pista": "pista 12",
-        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
-        "respuesta": "no",
-        "felicidades": "¡Felicidades! Has completado la jincana"
-    },
-    {
-        "titulo": "ñjohfrwkg",
-        "pista": "pista 13",
-        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
-        "respuesta": "no",
-        "felicidades": "¡Felicidades! Has completado la jincana"
-    },
-    {
-        "titulo": "ñjohfrwkg",
-        "pista": "pista 14",
-        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
-        "respuesta": "no",
-        "felicidades": "¡Felicidades! Has completado la jincana"
-    },
-    {
-        "titulo": "ñjohfrwkg",
-        "pista": "pista 15",
-        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
-        "respuesta": "no",
-        "felicidades": "¡Felicidades! Has completado la jincana"
-    },
-    {
-        "titulo": "ñjohfrwkg",
-        "pista": "pista 16",
-        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
-        "respuesta": "no",
-        "felicidades": "¡Felicidades! Has completado la jincana"
-    },
-    {
-        "titulo": "ñjohfrwkg",
-        "pista": "pista 17",
-        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
-        "respuesta": "no",
-        "felicidades": "¡Felicidades! Has completado la jincana"
+        "titulo": "Cuantas vueltas",
+        "pista": "El titulo es autoexplicativo",
+        "imagen": "https://imgs.search.brave.com/Ow8otYmrKj7RgaSk9slakLG118dV4kCDey_NNCjC960/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNDUz/NTA4MjExL2VzL3Zl/Y3Rvci9zZSVDMyVC/MWFsLWRlLXRyJUMz/JUExZmljby1yb3Rv/bmRhLWFsZW0lQzMl/QTFuLWF6dWwuanBn/P3M9NjEyeDYxMiZ3/PTAmaz0yMCZjPUVv/bGc0a0w0UExrWE1k/WFc2Vjh3cVFjbzlw/eTUyWEQtN1FNZkxD/UF84eEU9",
+        "respuesta": "terminado",
+        "felicidades": "¡Felicidades! ¡Has completado la jincana! Cierra los ojos y espera a que te den el regalo"
     }
 ]
