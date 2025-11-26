@@ -1,0 +1,131 @@
+[
+    {
+        "titulo": "ñjohfrwkg",
+        "pista": "pista 1",
+        "imagen": "./src/img1.jpg",
+        "respuesta": "si"
+    },
+    {
+        "titulo": "ñjohfrwkg",
+        "pista": "pista 2",
+        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
+        "respuesta": "no"
+    },
+    {
+        "titulo": "ñjohfrwkg",
+        "pista": "pista 3",
+        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
+        "respuesta": "si"
+    },
+    {
+        "titulo": "ñjohfrwkg",
+        "pista": "pista 4",
+        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
+        "respuesta": "si"
+    },
+    {
+        "titulo": "ñjohfrwkg",
+        "pista": "pista 5",
+        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
+        "respuesta": "no",
+        "felicidades": "¡Felicidades! Has completado la jincana"
+    },
+    {
+        "titulo": "ñjohfrwkg",
+        "pista": "pista 6",
+        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
+        "respuesta": "no",
+        "felicidades": "¡Felicidades! Has completado la jincana"
+    },
+    {
+        "titulo": "ñjohfrwkg",
+        "pista": "pista 7",
+        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
+        "respuesta": "no",
+        "felicidades": "¡Felicidades! Has completado la jincana"
+    },
+    {
+        "titulo": "ñjohfrwkg",
+        "pista": "pista 8",
+        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
+        "respuesta": "no",
+        "felicidades": "¡Felicidades! Has completado la jincana"
+    },
+    {
+        "titulo": "ñjohfrwkg",
+        "pista": "pista 5",
+        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
+        "respuesta": "no",
+        "felicidades": "¡Felicidades! Has completado la jincana"
+    },
+    {
+        "titulo": "ñjohfrwkg",
+        "pista": "pista 9",
+        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
+        "respuesta": "no",
+        "felicidades": "¡Felicidades! Has completado la jincana"
+    },
+    {
+        "titulo": "ñjohfrwkg",
+        "pista": "pista 10",
+        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
+        "respuesta": "no",
+        "felicidades": "¡Felicidades! Has completado la jincana"
+    },
+    {
+        "titulo": "ñjohfrwkg",
+        "pista": "pista 11",
+        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
+        "respuesta": "no",
+        "felicidades": "¡Felicidades! Has completado la jincana"
+    },
+    {
+        "titulo": "ñjohfrwkg",
+        "pista": "pista 5",
+        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
+        "respuesta": "no",
+        "felicidades": "¡Felicidades! Has completado la jincana"
+    },
+    {
+        "titulo": "ñjohfrwkg",
+        "pista": "pista 12",
+        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
+        "respuesta": "no",
+        "felicidades": "¡Felicidades! Has completado la jincana"
+    },
+    {
+        "titulo": "ñjohfrwkg",
+        "pista": "pista 13",
+        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
+        "respuesta": "no",
+        "felicidades": "¡Felicidades! Has completado la jincana"
+    },
+    {
+        "titulo": "ñjohfrwkg",
+        "pista": "pista 14",
+        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
+        "respuesta": "no",
+        "felicidades": "¡Felicidades! Has completado la jincana"
+    },
+    {
+        "titulo": "ñjohfrwkg",
+        "pista": "pista 15",
+        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
+        "respuesta": "no",
+        "felicidades": "¡Felicidades! Has completado la jincana"
+    },
+    {
+        "titulo": "ñjohfrwkg",
+        "pista": "pista 16",
+        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
+        "respuesta": "no",
+        "felicidades": "¡Felicidades! Has completado la jincana"
+    },
+    {
+        "titulo": "ñjohfrwkg",
+        "pista": "pista 17",
+        "imagen": "https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0=",
+        "respuesta": "no",
+        "felicidades": "¡Felicidades! Has completado la jincana"
+    }
+]

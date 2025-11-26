@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Jincana de Cumple</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;600;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <h1>¡Jincana de Cumple!</h1>
+      <p class="subtitle">Resuelve cada pista para desbloquear la siguiente</p>
+    </header>
+
+    <main>
+      <section id="cards" class="cards-grid" aria-live="polite"></section>
+    </main>
+
+    <div id="toast" role="status" aria-live="polite" class="toast hidden"></div>
+    <button id="cheat-btn" class="cheat-btn" aria-label="Ayuda">★</button>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+  </html>
+
+
