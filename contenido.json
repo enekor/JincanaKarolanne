@@ -9,7 +9,7 @@
         "titulo": "¿Frio? ¿Donde?",
         "pista": "En el cuarto mas frio de la casa, busca la puerta helada",
         "imagen": "https://imgs.search.brave.com/-j-3ajdL8kyVzdv2DWQgBuTziUmy0VgNdyg0OBFsV3Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YXNvYy1hbHVtaW5p/by5lcy9zaXRlcy9k/ZWZhdWx0L2ZpbGVz/LzIwMjItMDcvaGlz/dG9yaWEtYWx1bWlu/aW9fMC5qcGc",
-        "respuesta": "..."
+        "respuesta": "despensa"
     },
     {
         "titulo": "El alcohol, el alma de la fiesta",
@@ -46,3 +46,4 @@
     }
 
 ]
+
