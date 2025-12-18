@@ -20,15 +20,8 @@
     {
         "titulo": "Patrones incomprensibles",
         "pista": "¡Ya tienes el juego! Escribe el nombre del personaje de la foto",
-        "imagen": "./src/img1.jpg",
+        "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiVUh4PbbdGaTRjmjJGhu7fN8hJCWpEuM9SgqP66dYvV5cBpXXdimCLWpY6SxjSqEe4THHgVUPWdOBjZi3z6WkJEhO-weh-7dCJwdyAjTeymur3WxtmJFPgRBMuiWakLvHwQIS76ZPOBxFCqOKGggVx4MbXBVKSEsKErOwAZ9X8MWnyzBq51b2OWig%2Fs1800%2FUntitled1.jpg&f=1&nofb=1&ipt=a7ccdb0b082286a1d5842cc51ec26ae0548b0bdc9514319e36637fd6ea244eb0",
         "respuesta": "Toadette"
-    },
-    {
-        "titulo": "Circuito escondido",
-        "pista": "Dime el nombre del circuito 3 de la copa ...",
-        "imagen": "./src/img2.jpg",
-        "respuesta": "...",
-        "felicidades": "¡Felicidades! Has completado la jincana"
     },
     {
         "titulo": "Ya por favor",
@@ -46,9 +39,10 @@
     },
     {
         "titulo": "Cuantas vueltas",
-        "pista": "El titulo es autoexplicativo",
+        "pista": "El anterior es de parte de Jesus, el titulo es autoexplicativo",
         "imagen": "https://imgs.search.brave.com/Ow8otYmrKj7RgaSk9slakLG118dV4kCDey_NNCjC960/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNDUz/NTA4MjExL2VzL3Zl/Y3Rvci9zZSVDMyVC/MWFsLWRlLXRyJUMz/JUExZmljby1yb3Rv/bmRhLWFsZW0lQzMl/QTFuLWF6dWwuanBn/P3M9NjEyeDYxMiZ3/PTAmaz0yMCZjPUVv/bGc0a0w0UExrWE1k/WFc2Vjh3cVFjbzlw/eTUyWEQtN1FNZkxD/UF84eEU9",
         "respuesta": "terminado",
         "felicidades": "¡Felicidades! ¡Has completado la jincana! Cierra los ojos y espera a que te den el regalo"
     }
+
 ]
